@@ -4,9 +4,6 @@ PASSWORD: nizzy
 EMAIL: chibunnav4@gmail.com
 PASSWORD: @realtime
 
-EMAIL: jeremiahakasili23@gmail.com
-PASSWORD: JJAkasili@23
-
 EMAIL: joshuaakasili23@gmail.com
 PASSWORD: JJAkasili@23
 
