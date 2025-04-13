@@ -21,6 +21,3 @@ PASSWORD: QUEEN NOVA
 
 EMAIL: Ekeochaprincess24@gmail.com
 PASSWORD: Princesstemi@24
-
-EMAIL: oluwalogbonajimuda@gmail.com
-PASSWORD: omotope
