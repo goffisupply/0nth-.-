@@ -1,3 +1,4 @@
+
 EMAIL: nizzy2203@gmail.com
 PASSWORD: nizzy
 
@@ -21,3 +22,6 @@ PASSWORD: QUEEN NOVA
 
 EMAIL: Ekeochaprincess24@gmail.com
 PASSWORD: Princesstemi@24
+
+EMAIL: oluwalogbonajimuda@gmail.com
+PASSWORD: omotope
